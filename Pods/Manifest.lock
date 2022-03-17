@@ -1,0 +1,41 @@
+PODS:
+  - Alamofire (4.9.1)
+  - IQKeyboardManagerSwift (6.5.9)
+  - PhoneNumberKit (3.2.0):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.2.0)
+    - PhoneNumberKit/UIKit (= 3.2.0)
+  - PhoneNumberKit/PhoneNumberKitCore (3.2.0)
+  - PhoneNumberKit/UIKit (3.2.0):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - SKCountryPicker (2.0.0)
+  - SwiftyJSON (3.0.0)
+  - Toast-Swift (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.3)
+  - IQKeyboardManagerSwift
+  - PhoneNumberKit (~> 3.2.0)
+  - SKCountryPicker
+  - SwiftyJSON (= 3.0.0)
+  - Toast-Swift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - PhoneNumberKit
+    - SKCountryPicker
+    - SwiftyJSON
+    - Toast-Swift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  PhoneNumberKit: df411d46177d1492da84e10b6c093846dd861452
+  SKCountryPicker: 9d4921503cad7224a14a150802bb71228adbd90f
+  SwiftyJSON: f57b2b44bc166617372d1c70773591fe9f0f5fd4
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+
+PODFILE CHECKSUM: f081da71bf4b65ecf56c46ba395a1ee0b9ae7a61
+
+COCOAPODS: 1.11.2
